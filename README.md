@@ -1,3 +1,11 @@
+> Changelog(Mudanças): Animus Platform Spartan v1.3.0-public-release, Prévia
+> Data prevista para o lançamento da atualização: 15 de Dezembro
+
+- Novos ícones e nome
+- Melhorias visuais, correção de cores
+- Migração de Alunos, Professores e Tutores de períodos
+- Avaliação de Alunos
+- Relatórios
 
 > Changelog(Mudanças): Animus Platform Spartan v1.2.0-public-release, Prévia
 
